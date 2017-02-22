@@ -1,6 +1,6 @@
 
-<h1>Hello world </h1>
-<p>lorem ipsim</p>
+<h1>Hello World</h1>
+<p>Its nice out</p>
 
 
 <?php
@@ -10,3 +10,8 @@
  * Date: 2017-02-14
  * Time: 7:20 PM
  */
+
+
+echo("<h3> This is a third level heading</h3>");
+
+?>
