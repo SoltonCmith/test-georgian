@@ -1,6 +1,6 @@
 
-<h1>Hello World</h1>
-<p>Its nice out</p>
+<h1>I love brooke winter</h1>
+<p>shes hot</p>
 
 
 <?php
@@ -12,6 +12,6 @@
  */
 
 
-echo("<h3> This is a third level heading</h3>");
+echo("<h3> lorem ipsim </h3>");
 
 ?>
